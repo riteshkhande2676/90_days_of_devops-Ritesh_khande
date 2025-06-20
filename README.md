@@ -50,9 +50,20 @@ Welcome to my journey of learning and mastering DevOps in **90 Days** . This rep
 
 ---
 
-## ✅ How to Use This Repo
+🎯 Final Outcome
+By the end of 90 days, I aim to:
 
-```bash
+Deploy a microservice-based application using Kubernetes and Helm
 
-git clone 
-cd 90DaysOfDevOps-January
+Implement CI/CD pipelines using Jenkins and GitHub Actions
+
+Use Terraform for provisioning AWS infrastructure
+
+Monitor systems with Prometheus and Grafana
+
+
+
+
+🙋‍♂️ About Me
+I'm a DevOps enthusiast and RHCSA + CKA certified learner, on a mission to break into DevOps and cloud roles.
+📫 Connect with me on LinkedIn or follow me here on GitHub!
